@@ -1,0 +1,42 @@
+[
+  {
+    "email": "gio@gmail.com",
+    "password": "110213",
+    "id": "6d3822b3ad"
+  },
+  {
+    "email": "shama@gmail.com",
+    "password": "110214",
+    "id": "3130c7de32"
+  },
+  {
+    "email": "hmmmm",
+    "password": "bbb",
+    "id": "49d4eabf04"
+  },
+  {
+    "email": "test99@gmail.com",
+    "password": "110213",
+    "id": "1144a53261"
+  },
+  {
+    "email": "gioxan@gmail.com",
+    "password": "1a9ee02d655d17cdfd152390775fd4ff3ac376887b1406cadcb11833ed5d1128b1882a176a9c51d34057d3d799a5fac6fef3ef23ade2d75b7f6ef01cbc0b54b6.7cb6f9a1544dc4e4",
+    "id": "032608710c"
+  },
+  {
+    "email": "gega@test.com",
+    "password": "8cadf8da0401572b2255427b065cbfedc04c166459dcba01a5fde5c63ace5d1b848c9ec066b99e2b67a3b3fb13799ad33bdb545e6359045de767565aecdbdce9.9f0d8ad905afcf5f",
+    "id": "fa619396bb"
+  },
+  {
+    "email": "@cccccc",
+    "password": "ab1e1c6d4cec2fb2de6924fab724211292a64f8a21baa6d78ad2440d7e5e18d5c26161ba1ec8cf3902f87bdafff08d1d766948c1858c6fdc8526d19649c97877.99529c9e538197b6",
+    "id": "b560782404"
+  },
+  {
+    "email": "test99@gmail.com",
+    "password": "90151738e23c9583f689a9128b8f05a1f0682168ff7daf620791355a930d419599465dbbc09104fea60496eeced27a2d4236bc0a67e6c30265393c7e57728b38.64b3110a1accbcbd",
+    "id": "5a65349497"
+  }
+]
